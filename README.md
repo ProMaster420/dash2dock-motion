@@ -99,7 +99,7 @@ its dash blur.
 ### From source
 
 ```sh
-git clone https://github.com/YOUR-USERNAME/dash2dock-motion.git
+git clone https://github.com/ProMaster420/dash2dock-motion.git
 cd dash2dock-motion
 dest=~/.local/share/gnome-shell/extensions/dash2dock-motion@unmade.space
 mkdir -p "$dest"
@@ -194,7 +194,7 @@ Include a few of the `[d2dm v4]` lines and a screenshot in your report. Delete
 ## Bug reporting
 
 Please open an issue at
-https://github.com/YOUR-USERNAME/dash2dock-motion/issues.
+https://github.com/ProMaster420/dash2dock-motion/issues.
 
 Bugs in the dock itself, meaning autohide, intellihide, struts, theming or the
 preferences pages other than Dash2Dock Motion, most likely belong upstream at
